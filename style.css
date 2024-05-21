@@ -15,12 +15,14 @@ body {
   font-size: 150%;
 }
 
-a:link {
+a {
   text-decoration: none;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 600;
-  color: darkorchid;
+  color: rgb(105, 0, 157);
 }
+
+
 
 .content {
   padding-left: 3%;
