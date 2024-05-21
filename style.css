@@ -19,10 +19,22 @@ a {
   text-decoration: none;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 600;
-  color: rgb(0, 0, 0);
+  color: rgb(57, 43, 149);
 }
 
 a:hover{
+  color:rgb(102, 92, 196)
+}
+
+
+#navbar a {
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+}
+
+#navbar a:hover{
   color:rgb(72, 72, 72)
 }
 
