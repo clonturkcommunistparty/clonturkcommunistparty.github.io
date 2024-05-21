@@ -1,0 +1,56 @@
+body {
+  background-color: beige;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0px;
+  border: 0px;
+  position: relative;
+}
+
+#navbar {
+  background-color: darkkhaki;
+  padding: .5%;
+  margin: 0px;
+  border: 0px;
+  font-size: larger;
+}
+
+a:link {
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+
+}
+
+#content {
+  padding-left: 3%;
+  padding-right: 1.3%;
+}
+
+#navHome {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#navNewsletter {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#navAbout {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#navContact {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+p {
+  font-weight: 500;
+}
+
+#title {
+  font-size: 35px;
+}
