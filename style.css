@@ -19,7 +19,11 @@ a {
   text-decoration: none;
   font-family: 'Courier New', Courier, monospace;
   font-weight: 600;
-  color: rgb(105, 0, 157);
+  color: rgb(0, 0, 0);
+}
+
+a:hover{
+  color:rgb(72, 72, 72)
 }
 
 
