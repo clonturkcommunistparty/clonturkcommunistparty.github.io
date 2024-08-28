@@ -1,0 +1,98 @@
+body {
+    background-color: beige;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%;
+    border: 0%;
+    position: relative;
+  }
+  
+  #navbar {
+    background-color: darkkhaki;
+    padding: 1vw;
+    margin: 0VW;
+    border: 0vw;
+    font-size: 1.5vw;
+  }
+  
+  a {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: rgb(57, 43, 149);
+  }
+  
+  a:hover{
+    color:rgb(102, 92, 196)
+  }
+  
+  
+  #navbar a {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+  }
+  
+  #navbar a:hover{
+    color:rgb(72, 72, 72)
+  }
+  
+  
+  
+  .content {
+    padding-left: 0.03vw;
+    padding-right: 0.013vw;
+  }
+  
+  #navHome {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
+  #navNewsletter {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
+  #navAbout {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
+  #navContact {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  
+  p {
+    font-weight: 500;
+    font-size: 1.5vw;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  
+  .heading {
+    font-size: 2vw;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  
+  #logo{
+    padding-bottom:0%;
+    position: relative;
+    width: 85vw;
+    height: auto;
+    right: 10vw;
+  }
+  
+  .disclaimer{
+    font-size: 1vw;
+    font-weight: 200;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+  }
+  
+  
